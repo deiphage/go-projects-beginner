@@ -1,5 +1,4 @@
-// hello-world-variables
-package main
+package main // hello-world-variables
 
 import (
 	"fmt"
